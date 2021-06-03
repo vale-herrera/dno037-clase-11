@@ -19,17 +19,17 @@ section header{
 }
 
 section#hello header{
-	background:silver url('https://picsum.photos/id/279/900/400') center center no-repeat;
+	background:silver url('https://raw.githubusercontent.com/vale-herrera/dno037-clase-12/main/images/fondo_1.jpg') center center no-repeat;
 	background-size:cover;
 }
 
 section#work header{
-	background:silver url('https://picsum.photos/id/384/900/400') center center no-repeat;
+	background:silver url('https://raw.githubusercontent.com/vale-herrera/dno037-clase-12/main/images/fondo_2.jpg') center center no-repeat;
 	background-size:cover;	
 }
 
 section#contact header{
-	background:silver url('https://picsum.photos/id/41/900/400') center center no-repeat;
+	background:silver url('https://raw.githubusercontent.com/vale-herrera/dno037-clase-12/main/images/fondo_3.jpg') center center no-repeat;
 	background-size:cover;	
 }
 
