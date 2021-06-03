@@ -11,7 +11,7 @@ window.addEventListener("scroll", (event) => {
     }
 });
 //La API
-fetch("https://sheet.best/api/sheets/41b6b909-b785-450e-9d8d-3bc622324fb8")
+fetch("https://sheet.best/api/sheets/49b3aeec-17f2-4072-aa76-e5b4ac2d4293")
 .then((response) => {
     return response.json();
 })
