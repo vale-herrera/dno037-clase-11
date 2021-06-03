@@ -1,5 +1,15 @@
 @charset "UTF-8";
 
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300;800&display=swap');
+
+
+:root {
+    --fondo: rgb(173, 255, 250, 0.3);
+    --figura: #21272c;
+    --titulo: #373D75;
+    --destacado: #d4f739;
+}
+
 *{
 	transition:all ease 0.5s;
 }
@@ -7,6 +17,7 @@
 :hover{
 	transition:all ease 0.5s;
 }
+
 
 a.nav-link{
 	text-transform: lowercase;
@@ -38,4 +49,23 @@ section#contact header{
 	display:block;
 	height:70px;
 	margin:-70px 0 0;
+}
+
+
+h1 {
+    font-weight: bold;
+    font-size: 400%;
+    color: #373D75
+}
+
+p {
+    font-family: 'Kanit', sans-serif;
+    font-weight: 700;
+}
+
+body {
+    font-family: 'Kanit', sans-serif;
+	background: rgb(218, 242, 244, 0.6);
+    color: var(--figura);
+
 }
