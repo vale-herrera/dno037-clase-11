@@ -51,21 +51,26 @@ section#contact header{
 	margin:-70px 0 0;
 }
 
+header {
+    font-weight: bold;
+    font-weight: 800;
+    color: #443E88;
+}
 
 h1 {
     font-weight: bold;
-    font-size: 400%;
-    color: #373D75
+    font-weight: 800;
+    color: #443E88;
 }
 
 p {
     font-family: 'Kanit', sans-serif;
-    font-weight: 700;
+    font-weight: 300;
 }
 
 body {
     font-family: 'Kanit', sans-serif;
 	background: rgb(218, 242, 244, 0.6);
-    color: var(--figura);
+    color: #443E88;
 
 }
